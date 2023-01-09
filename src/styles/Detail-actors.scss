@@ -1,0 +1,18 @@
+#detail-actors{
+  padding: 5% 0;
+  .detail-actors{
+    display: flex;
+    padding-bottom: 5%;
+    &--desc{
+      margin-left: 5%;
+
+    }
+  }
+  .movie-credits{
+    margin: 10px;
+    padding: 10px;
+    background: #40ab7e;
+    border: 1px solid #081046;
+  }
+
+}
